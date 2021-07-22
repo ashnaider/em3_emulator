@@ -18,7 +18,7 @@ You also can see all registers, operands and next row.
 ### Example
 
 #### Task
-
+![task formula](img/task_formula.png)
 
 #### em3 program
 ![main screen](img/em3_example.png)
