@@ -24,7 +24,8 @@ You also can see all registers, operands and next row.
 ![main screen](img/em3_example.png)
 
 #### Python3 program
-`import math 
+```python
+import math 
 
 def float_loop(a, n):
     res = 1
@@ -36,7 +37,8 @@ float_a = float(input("Enter a: "))
 n = int(input("Enter n: "))
 
 print("Using float: ", float_loop(float_a, n))
-`
+```
+
 
 #### Python3 result
 ![python3 resuls](img/py_res_test.png)
