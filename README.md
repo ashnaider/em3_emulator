@@ -10,5 +10,5 @@ You can do:
   print number of array
   stop program
   
-
+### Main screen
 ![main screen](img/example.png)
