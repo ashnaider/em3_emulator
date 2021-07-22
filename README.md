@@ -9,6 +9,11 @@ You can do:
 * input number or array
 * print number of array
 * stop program
+
+Program code can be saved or read from file.
+
+You can run program in debug mode, evaluating each row manualy by "Step" button.
+You also can see all registers, operands and next row.
   
 ### Main screen
 ![main screen](img/example.png)
